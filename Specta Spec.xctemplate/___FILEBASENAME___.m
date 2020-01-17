@@ -6,7 +6,9 @@
 //  Copyright ___YEAR___ ___ORGANIZATIONNAME___. All rights reserved.
 //
 
-#import "Specta.h"
+@import Specta;
+@import Expecta;
+
 #import "___VARIABLE_testedClass___.h"
 
 
